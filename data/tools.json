@@ -1,0 +1,16 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "name": "Tool Name",
+      "category": "Freelancing",
+      "description": "Brief description of the tool",
+      "rating": 4.5,
+      "reviews": 200,
+      "affiliateLink": "https://example.com/affiliate",
+      "pros": ["Pro 1", "Pro 2", "Pro 3"],
+      "cons": ["Con 1", "Con 2"],
+      "commission": "20% per referral"
+    }
+  ]
+}
